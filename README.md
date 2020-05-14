@@ -47,7 +47,7 @@ When there is an update in the main repository you can get them with `git pull o
 
 ## Setup requirement
 
-To make the most of the course, it is recommended to install
+To make the most of the course, it is recommended to install 
 - JuliaPro 1.4 (or Julia 1.4 + a good text editor + JupyterLab)
 - Git
 
@@ -118,3 +118,5 @@ Each session is 4 hours, and expected to be evenly but not contiguously divided 
 - Rational Expectations Models (2): DSGE modeling
     - FRBNY?
 - Exam
+
+ZIMZAMZOOM
